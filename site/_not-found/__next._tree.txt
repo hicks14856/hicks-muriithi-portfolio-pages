@@ -1,0 +1,4 @@
+:HL["/hicks-muriithi-portfolio-pages/_next/static/chunks/09gtj1ko1h7_8.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"QSTBHiGUs5ZGuFXwd3eTw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
